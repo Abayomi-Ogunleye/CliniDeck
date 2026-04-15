@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Which muscle is the prime mover of shoulder abduction?",
+        "choice1": "Supraspinatus",
+        "choice2": "Deltoid",
+        "choice3": "Infraspinatus",
+        "choice4": "Teres minor",
+        "answer": 2
+    },
+    {
+        "question": "Which nerve is most commonly injured in a fracture of the surgical neck of the humerus?",
+        "choice1": "Radial nerve",
+        "choice2": "Ulnar nerve",
+        "choice3": "Axillary nerve",
+        "choice4": "Musculocutaneous nerve",
+        "answer": 3
+    },
+    {
+        "question": "The cubital fossa is bounded medially by which muscle?",
+        "choice1": "Brachioradialis",
+        "choice2": "Pronator teres",
+        "choice3": "Biceps brachii",
+        "choice4": "Brachialis",
+        "answer": 2
+    },
+    {
+        "question": "Which structure passes through the carpal tunnel?",
+        "choice1": "Ulnar nerve",
+        "choice2": "Radial artery",
+        "choice3": "Median nerve",
+        "choice4": "Ulnar artery",
+        "answer": 3
+    },
+    {
+        "question": "Which rotator cuff muscle is responsible for external rotation of the shoulder?",
+        "choice1": "Subscapularis",
+        "choice2": "Supraspinatus",
+        "choice3": "Infraspinatus",
+        "choice4": "Teres major",
+        "answer": 3
+    },
+    {
+        "question": "A patient cannot extend the wrist after a humeral shaft fracture. Which nerve is damaged?",
+        "choice1": "Median nerve",
+        "choice2": "Ulnar nerve",
+        "choice3": "Axillary nerve",
+        "choice4": "Radial nerve",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following muscles is NOT part of the rotator cuff?",
+        "choice1": "Subscapularis",
+        "choice2": "Teres minor",
+        "choice3": "Teres major",
+        "choice4": "Supraspinatus",
+        "answer": 3
+    },
+    {
+        "question": "The anatomical snuffbox is bounded anteriorly by which tendon?",
+        "choice1": "Extensor pollicis longus",
+        "choice2": "Extensor pollicis brevis",
+        "choice3": "Abductor pollicis longus",
+        "choice4": "Flexor pollicis longus",
+        "answer": 2
+    },
+    {
+        "question": "Which bone is most commonly fractured in a fall on an outstretched hand (FOOSH)?",
+        "choice1": "Lunate",
+        "choice2": "Triquetrum",
+        "choice3": "Scaphoid",
+        "choice4": "Capitate",
+        "answer": 3
+    },
+    {
+        "question": "Which nerve supplies the thenar muscles of the hand?",
+        "choice1": "Ulnar nerve",
+        "choice2": "Radial nerve",
+        "choice3": "Median nerve",
+        "choice4": "Musculocutaneous nerve",
+        "answer": 3
+    },
+    {
+        "question": "Claw hand deformity is most pronounced in which nerve injury?",
+        "choice1": "Median nerve",
+        "choice2": "Radial nerve",
+        "choice3": "Axillary nerve",
+        "choice4": "Ulnar nerve",
+        "answer": 4
+    },
+    {
+        "question": "Which artery is the primary blood supply to the scaphoid bone?",
+        "choice1": "Anterior interosseous artery",
+        "choice2": "Radial artery",
+        "choice3": "Ulnar artery",
+        "choice4": "Posterior interosseous artery",
+        "answer": 2
+    },
+    {
+        "question": "The brachial plexus is formed from which spinal roots?",
+        "choice1": "C4 - C8",
+        "choice2": "C5 - T1",
+        "choice3": "C4 - T1",
+        "choice4": "C6 - T2",
+        "answer": 2
+    },
+    {
+        "question": "Which muscle flexes the elbow and supinates the forearm?",
+        "choice1": "Brachialis",
+        "choice2": "Brachioradialis",
+        "choice3": "Biceps brachii",
+        "choice4": "Supinator",
+        "answer": 3
+    },
+    {
+        "question": "Erb's palsy results from injury to which roots of the brachial plexus?",
+        "choice1": "C8 and T1",
+        "choice2": "C5 and C6",
+        "choice3": "C6 and C7",
+        "choice4": "C7 and C8",
+        "answer": 2
+    },
+    {
+        "question": "Which compartment of the arm contains the triceps brachii?",
+        "choice1": "Anterior compartment",
+        "choice2": "Lateral compartment",
+        "choice3": "Posterior compartment",
+        "choice4": "Medial compartment",
+        "answer": 3
+    },
+    {
+        "question": "The median nerve enters the forearm between which two heads of a muscle?",
+        "choice1": "Flexor carpi ulnaris",
+        "choice2": "Pronator quadratus",
+        "choice3": "Pronator teres",
+        "choice4": "Flexor digitorum superficialis",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following movements is lost in a complete radial nerve palsy?",
+        "choice1": "Wrist flexion",
+        "choice2": "Thumb opposition",
+        "choice3": "Wrist extension",
+        "choice4": "Finger adduction",
+        "answer": 3
+    },
+    {
+        "question": "Which ligament is commonly injured in a Colles' fracture?",
+        "choice1": "Ulnar collateral ligament",
+        "choice2": "Radial collateral ligament",
+        "choice3": "Triangular fibrocartilage complex",
+        "choice4": "Palmar radiocarpal ligament",
+        "answer": 3
+    },
+    {
+        "question": "The dorsal scapular nerve innervates which muscle?",
+        "choice1": "Serratus anterior",
+        "choice2": "Rhomboids",
+        "choice3": "Trapezius",
+        "choice4": "Levator scapulae only",
+        "answer": 2
+    },
+    {
+        "question": "Which muscle is responsible for opposition of the thumb?",
+        "choice1": "Abductor pollicis brevis",
+        "choice2": "Flexor pollicis brevis",
+        "choice3": "Opponens pollicis",
+        "choice4": "Adductor pollicis",
+        "answer": 3
+    },
+    {
+        "question": "The long thoracic nerve supplies which muscle?",
+        "choice1": "Pectoralis major",
+        "choice2": "Serratus anterior",
+        "choice3": "Latissimus dorsi",
+        "choice4": "Subclavius",
+        "answer": 2
+    },
+    {
+        "question": "Winging of the scapula is caused by paralysis of which muscle?",
+        "choice1": "Trapezius",
+        "choice2": "Rhomboids",
+        "choice3": "Serratus anterior",
+        "choice4": "Levator scapulae",
+        "answer": 3
+    },
+    {
+        "question": "Which nerve is at risk during a surgical approach to the medial epicondyle?",
+        "choice1": "Median nerve",
+        "choice2": "Radial nerve",
+        "choice3": "Musculocutaneous nerve",
+        "choice4": "Ulnar nerve",
+        "answer": 4
+    },
+    {
+        "question": "The flexor retinaculum attaches to which carpal bones on its medial side?",
+        "choice1": "Scaphoid and trapezium",
+        "choice2": "Pisiform and hook of hamate",
+        "choice3": "Triquetrum and capitate",
+        "choice4": "Lunate and trapezoid",
+        "answer": 2
+    }
+]
