@@ -80,22 +80,31 @@ choices.forEach(choice => {
         const selectedChoice = e.target;
         const selectedAnswer = selectedChoice.dataset["number"];
 
-        const classToApply =
-         selectedAnswer == currentQuestion.answer ? "correct": "incorrect";
+        const isCorrect = selectedAnswer == currentQuestion.answer;
 
-         if(classToApply === "correct") {
+        if (isCorrect) {
             incrementScore(CORRECT_BONUS);
-         }
+            selectedChoice.parentElement.classList.add("correct");
+        } else {
+            // Highlight the wrong answer red
+            selectedChoice.parentElement.classList.add("incorrect");
 
-        selectedChoice.parentElement.classList.add(classToApply);
+            // Find and highlight the correct answer green
+            choices.forEach(c => {
+                if (c.dataset["number"] == currentQuestion.answer) {
+                    c.parentElement.classList.add("correct");
+                }
+            });
+        }
 
-        setTimeout( () =>{
-            selectedChoice.parentElement.classList.remove(classToApply);
+setTimeout(() => {
+            choices.forEach(c => {
+                c.parentElement.classList.remove("correct", "incorrect");
+            });
             getNewQuestion();
-        }, 1000);
+        }, 1500);
     });
 });
-
 incrementScore = num => {
     score += num;
     scoreText.innerText = score;

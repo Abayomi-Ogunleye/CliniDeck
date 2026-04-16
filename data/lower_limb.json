@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Which muscle is the prime mover of hip flexion?",
+        "choice1": "Rectus femoris",
+        "choice2": "Iliacus",
+        "choice3": "Iliopsoas",
+        "choice4": "Sartorius",
+        "answer": 3
+    },
+    {
+        "question": "Which nerve is most commonly injured in a posterior dislocation of the hip?",
+        "choice1": "Femoral nerve",
+        "choice2": "Obturator nerve",
+        "choice3": "Sciatic nerve",
+        "choice4": "Superior gluteal nerve",
+        "answer": 3
+    },
+    {
+        "question": "Which muscle is responsible for abduction of the hip and is tested in the Trendelenburg sign?",
+        "choice1": "Gluteus maximus",
+        "choice2": "Gluteus medius",
+        "choice3": "Tensor fasciae latae",
+        "choice4": "Piriformis",
+        "answer": 2
+    },
+    {
+        "question": "The femoral triangle is bounded superiorly by which structure?",
+        "choice1": "Inguinal ligament",
+        "choice2": "Sartorius",
+        "choice3": "Adductor longus",
+        "choice4": "Fascia lata",
+        "answer": 1
+    },
+    {
+        "question": "Which nerve supplies the skin over the medial aspect of the thigh?",
+        "choice1": "Lateral cutaneous nerve of the thigh",
+        "choice2": "Femoral nerve",
+        "choice3": "Obturator nerve",
+        "choice4": "Genitofemoral nerve",
+        "answer": 3
+    },
+    {
+        "question": "Which structure is the medial boundary of the femoral triangle?",
+        "choice1": "Iliopsoas",
+        "choice2": "Pectineus",
+        "choice3": "Adductor longus",
+        "choice4": "Rectus femoris",
+        "answer": 3
+    },
+    {
+        "question": "A patient cannot extend the knee. Which nerve is most likely damaged?",
+        "choice1": "Sciatic nerve",
+        "choice2": "Obturator nerve",
+        "choice3": "Femoral nerve",
+        "choice4": "Common peroneal nerve",
+        "answer": 3
+    },
+    {
+        "question": "The popliteal fossa is bounded superomedially by which muscle?",
+        "choice1": "Biceps femoris",
+        "choice2": "Semimembranosus",
+        "choice3": "Gastrocnemius",
+        "choice4": "Plantaris",
+        "answer": 2
+    },
+    {
+        "question": "Foot drop is caused by injury to which nerve?",
+        "choice1": "Tibial nerve",
+        "choice2": "Femoral nerve",
+        "choice3": "Common fibular (peroneal) nerve",
+        "choice4": "Sural nerve",
+        "answer": 3
+    },
+    {
+        "question": "Which muscle plantarflexes the foot and is tested by asking a patient to stand on tiptoe?",
+        "choice1": "Tibialis anterior",
+        "choice2": "Gastrocnemius",
+        "choice3": "Fibularis longus",
+        "choice4": "Flexor digitorum longus",
+        "answer": 2
+    },
+    {
+        "question": "Which ligament is most commonly injured in an inversion sprain of the ankle?",
+        "choice1": "Deltoid ligament",
+        "choice2": "Posterior talofibular ligament",
+        "choice3": "Anterior talofibular ligament",
+        "choice4": "Calcaneofibular ligament",
+        "answer": 3
+    },
+    {
+        "question": "The saphenous nerve is a branch of which nerve?",
+        "choice1": "Sciatic nerve",
+        "choice2": "Obturator nerve",
+        "choice3": "Femoral nerve",
+        "choice4": "Common peroneal nerve",
+        "answer": 3
+    },
+    {
+        "question": "Which artery is the primary blood supply to the head of the femur in adults?",
+        "choice1": "Obturator artery",
+        "choice2": "Medial circumflex femoral artery",
+        "choice3": "Lateral circumflex femoral artery",
+        "choice4": "Inferior gluteal artery",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following muscles is NOT a hamstring?",
+        "choice1": "Biceps femoris",
+        "choice2": "Semitendinosus",
+        "choice3": "Semimembranosus",
+        "choice4": "Rectus femoris",
+        "answer": 4
+    },
+    {
+        "question": "Klumpke's palsy is the lower limb equivalent of which brachial plexus pattern? (Which lumbar roots form the femoral nerve?)",
+        "choice1": "L1, L2, L3",
+        "choice2": "L2, L3, L4",
+        "choice3": "L3, L4, L5",
+        "choice4": "L4, L5, S1",
+        "answer": 2
+    },
+    {
+        "question": "Which muscle inverts the foot and dorsiflexes the ankle?",
+        "choice1": "Fibularis longus",
+        "choice2": "Tibialis posterior",
+        "choice3": "Tibialis anterior",
+        "choice4": "Extensor digitorum longus",
+        "answer": 3
+    },
+    {
+        "question": "The pes anserinus is the combined insertion of which three muscles?",
+        "choice1": "Sartorius, gracilis, semitendinosus",
+        "choice2": "Rectus femoris, sartorius, gracilis",
+        "choice3": "Semimembranosus, gracilis, biceps femoris",
+        "choice4": "Sartorius, semitendinosus, semimembranosus",
+        "answer": 1
+    },
+    {
+        "question": "Which nerve is at risk during a medial approach to the hip joint?",
+        "choice1": "Femoral nerve",
+        "choice2": "Sciatic nerve",
+        "choice3": "Obturator nerve",
+        "choice4": "Superior gluteal nerve",
+        "answer": 3
+    },
+    {
+        "question": "Loss of sensation over the dorsum of the foot (except the first web space) indicates injury to which nerve?",
+        "choice1": "Deep fibular nerve",
+        "choice2": "Superficial fibular nerve",
+        "choice3": "Sural nerve",
+        "choice4": "Saphenous nerve",
+        "answer": 2
+    },
+    {
+        "question": "Which structure passes through the greater sciatic foramen below the piriformis?",
+        "choice1": "Superior gluteal nerve",
+        "choice2": "Obturator nerve",
+        "choice3": "Sciatic nerve",
+        "choice4": "Pudendal nerve",
+        "answer": 3
+    },
+    {
+        "question": "Which muscle is the chief extensor of the hip?",
+        "choice1": "Gluteus medius",
+        "choice2": "Biceps femoris",
+        "choice3": "Gluteus maximus",
+        "choice4": "Semimembranosus",
+        "answer": 3
+    },
+    {
+        "question": "The tarsal tunnel transmits all of the following EXCEPT:",
+        "choice1": "Tibial nerve",
+        "choice2": "Flexor digitorum longus tendon",
+        "choice3": "Posterior tibial artery",
+        "choice4": "Fibularis longus tendon",
+        "answer": 4
+    },
+    {
+        "question": "Which bone is most commonly fractured in a stress fracture among runners?",
+        "choice1": "Calcaneus",
+        "choice2": "Navicular",
+        "choice3": "Second metatarsal",
+        "choice4": "Talus",
+        "answer": 3
+    },
+    {
+        "question": "The iliotibial (IT) band is a thickening of which fascia?",
+        "choice1": "Fascia of the popliteal fossa",
+        "choice2": "Fascia lata",
+        "choice3": "Crural fascia",
+        "choice4": "Plantar fascia",
+        "answer": 2
+    },
+    {
+        "question": "Which nerve supplies the adductor compartment of the thigh?",
+        "choice1": "Femoral nerve",
+        "choice2": "Sciatic nerve",
+        "choice3": "Obturator nerve",
+        "choice4": "Lateral cutaneous nerve of the thigh",
+        "answer": 3
+    }
+]

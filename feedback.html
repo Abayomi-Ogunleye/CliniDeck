@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Form</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="game.css">
+</head>
+<body>
+    
+</body>
+</html>
+<div class="flex-column feedback">
+    <form action="https://formsubmit.co/ogunleyeabayomi43@gmail.com" method="POST">
+        <h2>Send <span>Feedback</span></h2>
+
+        <div class="field">
+            <label for="username">Name</label>
+            <input type="text" id="username" name="name" placeholder="Your name" required>
+        </div>
+
+        <div class="field">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="email@gmail.com">
+        </div>
+
+        <div class="field">
+            <label for="feedback">Feedback</label>
+            <textarea id="feedback" name="feedback" rows="5" placeholder="Tell us what you think..." required></textarea>
+        </div>
+
+        <button type="submit" class="send-btn">Send Feedback</button>
+    </form>
+</div>

@@ -1,15 +1,25 @@
 :root{
-    background-color: #ecf5ff;
+    background-color: #0d1117;
     font-size: 62.5%;
 }
 
 *{
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sora;
     margin: 0;
     padding: 0;
     color: #333;
 }
+
+.deck{
+    color: #38bdf8;
+    font-size: 5.4rem;
+    box-sizing: border-box;
+    font-family: sora;
+    margin-bottom: 5rem;
+    font-weight: 700;
+}
+
 
 h1, h2, h3, h4{
     margin-bottom: 1rem;
@@ -17,7 +27,7 @@ h1, h2, h3, h4{
 
 h1{
     font-size: 5.4rem;
-    color: #56a5eb;
+    color: white;
     margin-bottom: 5rem;
 }
 
@@ -30,11 +40,22 @@ h2{
     font-size: 4.2rem;
     margin-bottom: 4rem;
     font-weight: 700;
+    color: white;
 }
 
 h3{
     font-size: 2.8rem;
     font-weight: 500;
+}
+
+h4{
+    color: #aaa;
+    display: flex;
+    margin-top: -5rem;
+    margin-bottom: 5rem;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .container{
@@ -46,6 +67,7 @@ h3{
     max-width: 80rem;
     margin: 0 auto;
     padding: 2rem;
+    
 }
 
 .container > *{
@@ -80,11 +102,11 @@ h3{
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #56a5eb;
+    border: 0.1rem solid #38bdf8;
     margin-bottom: 1rem;
     text-decoration: none;
     border-radius: 0.5rem;
-    color: #56a5eb;
+    color: #0d1117;
     background-color: white;
 }
 
@@ -120,4 +142,49 @@ input {
 
 input::placeholder {
     color: #aaa;
+}
+
+#home {
+    background: #111827;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    padding: 2.5rem;
+    width: 100%;
+    max-width: 480px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+#home:hover{
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(85, 185, 235, 0.5);
+    
+}
+
+.cd-title {
+    font-family: 'Sora', sans-serif;
+    font-size: 1.%;
+    color: #f0f6ff;
+    line-height: 1;
+
+    background: linear-gradient(
+        120deg,
+        #f0f6ff 0%,
+        #f0f6ff 40%,
+        #ffffff 50%,
+        #38bdf8 55%,
+        #f0f6ff 60%,
+        #f0f6ff 100%
+    );
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    animation: shimmer 2.5s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+    0% { background-position: 200% center; }
+    100% { background-position: -200% center; }
 }

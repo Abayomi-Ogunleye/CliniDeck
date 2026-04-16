@@ -43,6 +43,7 @@
 .hud-prefix{
     text-align: center;
     font-size: 2rem;
+    color: white;
 }
 
 .hud-main-text{
@@ -87,4 +88,104 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.feedback {
+    min-height: 100vh;
+    background: #0d1117;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Sora', sans-serif;
+    padding: 2rem;
+    box-sizing: border-box;
+}
+
+.feedback form {
+    background: #111827;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    padding: 2.5rem;
+    width: 100%;
+    max-width: 480px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.feedback h2 {
+    color: #f0f6ff;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem;
+}
+
+.feedback h2 span {
+    color: #38bdf8;
+}
+
+label {
+    color: #64748b;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 6px;
+}
+
+.feedback input,
+.feedback textarea {
+    width: 100%;
+    background: #0d1117;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 12px 14px;
+    color: #f0f6ff;
+    font-family: 'Sora', sans-serif;
+    font-size: 0.9rem;
+    box-sizing: border-box;
+    transition: border-color 0.2s;
+    outline: none;
+    resize: none;
+}
+
+.feedback input::placeholder,
+.feedback textarea::placeholder {
+    color: #334155;
+}
+
+.feedback input:focus,
+.feedback textarea:focus {
+    border-color: #38bdf8;
+}
+
+.feedback .field {
+    display: flex;
+    flex-direction: column;
+}
+
+.send-btn {
+    background: #38bdf8;
+    color: #0d1117;
+    border: none;
+    border-radius: 10px;
+    padding: 13px;
+    font-family: 'Sora', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    transition: background 0.18s, transform 0.12s;
+    margin-top: 0.5rem;
+}
+
+.send-btn:hover {
+    background: #7dd3fc;
+    transform: translateY(-1px);
+}
+
+.send-btn:active {
+    transform: scale(0.98);
 }
